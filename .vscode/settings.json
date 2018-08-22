@@ -19,6 +19,7 @@
         "limits": "cpp",
         "__bit_reference": "cpp",
         "initializer_list": "cpp",
-        "iterator": "cpp"
+        "iterator": "cpp",
+        "ios": "cpp"
     }
 }
